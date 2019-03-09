@@ -1,4 +1,4 @@
-# VideoStream这是一个将源视频装换成字符视频的python项目。  
+# VideoStream这是一个将源视频转换成字符视频的python项目。  
 
 先看看效果。  
 <div align=center><img width="300" height="500" src="https://github.com/ygy-open/VideoStream/blob/master/screenshot/43.jpg"/></div>  
